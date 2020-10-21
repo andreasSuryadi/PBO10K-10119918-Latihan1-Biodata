@@ -7,9 +7,14 @@ package TugasPBO1;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk menampilkan biodata
+ * 
  */
-public class Project1_PBO {
+public class PBO10K10119918Latihan1Biodata {
 
     /**
      * @param args the command line arguments
